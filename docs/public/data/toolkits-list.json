@@ -748,7 +748,7 @@
     "name": "Meta Ads",
     "logo": "https://logos.composio.dev/api/metaads",
     "category": "ads & conversion",
-    "toolCount": 53,
+    "toolCount": 56,
     "triggerCount": 0
   },
   {
@@ -1092,7 +1092,7 @@
     "name": "Facebook",
     "logo": "https://logos.composio.dev/api/facebook",
     "category": "social media accounts",
-    "toolCount": 43,
+    "toolCount": 44,
     "triggerCount": 0
   },
   {
@@ -9245,6 +9245,14 @@
     "logo": "https://logos.composio.dev/api/re_amaze",
     "category": "customer support",
     "toolCount": 2,
+    "triggerCount": 0
+  },
+  {
+    "slug": "read_ai_mcp",
+    "name": "Read AI MCP",
+    "logo": "https://logos.composio.dev/api/read_ai_mcp",
+    "category": "model context protocol",
+    "toolCount": 4,
     "triggerCount": 0
   },
   {
